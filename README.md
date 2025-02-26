@@ -37,7 +37,7 @@ A responsive and visually appealing web application built with Next.js that allo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pokemon-finder.git
+   git clone https://github.com/Hartz-byte/pokemon-finder.git
    cd pokemon-finder
    ```
 2. Install dependencies:
